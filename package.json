@@ -1,0 +1,19 @@
+{
+  "name": "bumblebee",
+  "version": "1.0.0",
+  "description": "An object document mapper for IndexedDB databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandabler/bumblebee.git"
+  },
+  "author": "Ryan Dabler <r.p.dabler@gmail.com> (https://ryandabler.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryandabler/bumblebee/issues"
+  },
+  "homepage": "https://github.com/ryandabler/bumblebee#readme"
+}
